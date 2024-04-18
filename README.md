@@ -6,7 +6,7 @@ Please replace:
 'YOUR_BOT_TOKEN',  
 'YOUR_CHAT_ID' and URL  
 
-with the appropriate values.
+with the appropriate values. Also do not forget to specify how to find Release Notes on the web page.
 
 # Prerequisites
 To correct work, you have to install the following Python libraries:
